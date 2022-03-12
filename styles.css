@@ -1,0 +1,19 @@
+.header {
+    background-color: #1F2937;
+}
+.header .header-logo {
+    color: #E5E7EB;
+    font: 24px Helvetica;
+}
+.header .secondary-link {
+    color: #E5E7EB;
+    font: 18px Helvetica;
+}
+.header .main-text {
+    color: #F9FAF8;
+    font: 48px extra-bold; 
+    font-family: Helvetica; /*for some reason this needs to be separate*/
+}
+.header .signup {
+    color: #E5E7EB;
+}
